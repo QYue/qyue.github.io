@@ -51,14 +51,13 @@ My long-term research goal is to discover and understand critical security and p
 --- 
 
 ## Selected Publications
-
-- 2026
+- 2026   
 BSFuzzer: Context-Aware Semantic Fuzzing for BLE Logic Flaw Detection.  
 Ting Yang, **Yue Qin**, Lan Zhang, Zhiyuan Fu, Junfan Chen, Jice Wang, Shangru Zhao, Qi Li, Ruidong Li, He Wang, Yuqing Zhang
 _To appear in Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS), 2026._ (Acceptance rate:	??%) 
 
 
-- 2025
+- 2025   
 Falcon: A Universal Text-only Membership Inference Attack Framework against In-context Learning.  
 Haitao Su, **Yue Qin** (Corresponding), Zhenhua Li, Xin Miao, Yuan Zhou.
 _IEEE Transactions on Information Forensics and Security (TIFS) 20 (2025): 12964-12979._
