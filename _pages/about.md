@@ -23,7 +23,7 @@ My long-term research goal is to discover and understand critical security and p
 
 ## Recent Research Areas & Interests
 
-- Privacy compliance check: [[Usenix'23](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf)][CCS'24][NDSS'25]
+- Privacy compliance check: [[Usenix'23](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf)][CCS'24(https://dl.acm.org/doi/abs/10.1145/3658644.3690357)][NDSS'25(https://www.ndss-symposium.org/wp-content/uploads/2025-230-paper.pdf)]
   
 - AI security and privacy: [[CCS'23B](https://drive.google.com/file/d/1kNlxa2b1cq_slNgI7SkAfHjsBxcUunbX/view?usp=drive_link)][[CCS'21](https://dl.acm.org/doi/abs/10.1145/3460120.3484776)] [[NAACL'22](https://aclanthology.org/2022.naacl-main.125.pdf)][[TIFS'25](https://thucloud.com/zhenhua/papers/TIFS'26%20Falcon.pdf)]
 
