@@ -25,13 +25,13 @@ My long-term research goal is to discover and understand critical security and p
 
 - Privacy compliance check: [[Usenix'23](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf)][CCS'24][NDSS'25]
   
-- AI security and privacy: [[CCS'23B](https://drive.google.com/file/d/1kNlxa2b1cq_slNgI7SkAfHjsBxcUunbX/view?usp=drive_link)][[CCS'21](https://dl.acm.org/doi/abs/10.1145/3460120.3484776)] [[NAACL'22](https://aclanthology.org/2022.naacl-main.125.pdf)]
+- AI security and privacy: [[CCS'23B](https://drive.google.com/file/d/1kNlxa2b1cq_slNgI7SkAfHjsBxcUunbX/view?usp=drive_link)][[CCS'21](https://dl.acm.org/doi/abs/10.1145/3460120.3484776)] [[NAACL'22](https://aclanthology.org/2022.naacl-main.125.pdf)][[TIFS'25](https://thucloud.com/zhenhua/papers/TIFS'26%20Falcon.pdf)]
 
 - Cybercrime and threat intelligence: [[NDSS'20](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23071-paper.pdf)]
 
-- NLP/ML-assisted vulnerability discovery: [[Usenix'19](https://www.usenix.org/system/files/sec19-chen-yi.pdf)]  and management [[CCS'23A](https://drive.google.com/file/d/1kiHjzjenMTBh1LrpVIH23vzUmyej_buO/view?usp=drive_link)]
+- NLP/ML-assisted vulnerability discovery: [[Usenix'19](https://www.usenix.org/system/files/sec19-chen-yi.pdf)]  and management [[CCS'23A](https://drive.google.com/file/d/1kiHjzjenMTBh1LrpVIH23vzUmyej_buO/view?usp=drive_link)][NDSS'26]
 
-- Risk Detection: [[Raid'22](https://dl.acm.org/doi/pdf/10.1145/3545948.3545983)] [EMNLP'23]
+- Risk Detection: [[Raid'22](https://dl.acm.org/doi/pdf/10.1145/3545948.3545983)] [EMNLP'23(https://aclanthology.org/2023.emnlp-main.578.pdf)]
 
 
 ---
