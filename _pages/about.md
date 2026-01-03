@@ -36,6 +36,8 @@ My long-term research goal is to discover and understand critical security and p
 
 ---
 ## News
+- (12/02/2025) One paper was accepted by NDSS'26.
+- (11/28/2025) One paper was s accepted by IEEE TIFS.
 - (06/22/2024) One paper was accepted by NDSS'25.
 - (04/27/2024) One paper was accepted by CCS'24.
 - (10/09/2023) One paper was accepted by EMNLP'23.
@@ -50,17 +52,26 @@ My long-term research goal is to discover and understand critical security and p
 
 ## Selected Publications
 
-- 2025
+- 2026
+BSFuzzer: Context-Aware Semantic Fuzzing for BLE Logic Flaw Detection.  
+Ting Yang, **Yue Qin**, Lan Zhang, Zhiyuan Fu, Junfan Chen, Jice Wang, Shangru Zhao, Qi Li, Ruidong Li, He Wang, Yuqing Zhang
+_To appear in Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS), 2026._ (Acceptance rate:	??%) 
 
-Automated Expansion of Privacy Data Taxonomy for Compliant Data Breach Notification.   
+
+- 2025
+Falcon: A Universal Text-only Membership Inference Attack Framework against In-context Learning.  
+Haitao Su, **Yue Qin** (Corresponding), Zhenhua Li, Xin Miao, Yuan Zhou.
+_IEEE Transactions on Information Forensics and Security (TIFS) 20 (2025): 12964-12979._
+
+Automated Expansion of Privacy Data Taxonomy for Compliant Data Breach Notification.    
 **Yue Qin***, Yue Xiao* (co-first author), Xiaojing Liao.
-_To appear in Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS), 2025._ (Acceptance rate:	??%) 
+_In Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS), 2025._ (Acceptance rate:	16.09%) 
 
 - 2024
 
 Measuring Compliance Implications of Third-party Libraries’ Privacy Label Disclosure Guidelines.   
 Yue Xiao, Chaoqi Zhang, **Yue Qin**, Fares Fahad S Alharbi, Luyi Xing, Xiaojing Liao.
-_To appear in Proceedings of ACM Conference on Computer and Communications Security (CCS), 2024._ (Acceptance rate:	??%) 
+_In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2024._ (Acceptance rate:	16.7%) 
 
 - 2023
 
