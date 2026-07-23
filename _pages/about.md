@@ -58,31 +58,31 @@ My long-term research goal is to discover and understand critical security and p
 
 - 2026
 
-Shielding QR Codes: Unveiling the Real-World Illicit Promotion Behind Adversarial QR Codes.
+Shielding QR Codes: Unveiling the Real-World Illicit Promotion Behind Adversarial QR Codes.   
 Lijie Wu, Xiaoping Zhang, Mingxuan Liu✉, **Yue Qin**✉(Co-corresponding), Baojun Liu✉,Geng Hong, Zhenrui Zhang, Chenghui Wu, Hui Jiang
 _To appear in Proceedings of USENIX Security Symposium (Security), 2026._
 
-Breaking Free from Ivory Tower: Evaluating and Enhancing Real-world Chinese Underground Adversarial Jargon Detection.
+Breaking Free from Ivory Tower: Evaluating and Enhancing Real-world Chinese Underground Adversarial Jargon Detection.   
 Zhifan Jiang*, Mingxuan Liu*, **Yue Qin**✉(Co-corresponding), Baojun Liu✉
 _In Proceedings of the IEEE Symposium on Security and Privacy (SP), 2026._
 
-Black-Box Verification for GNN Ownership via Decision Boundary Fingerprints.
+Black-Box Verification for GNN Ownership via Decision Boundary Fingerprints.   
 Meng Shen✉, Luyao Peng, Hao Lu, **Yue Qin**✉(Co-corresponding), Qi Li, Liehuang Zhu. 
 IEEE Transactions on Dependable and Secure Computing(TDSC). 
 
-Byzantine-Robust Asynchronous Federated Learning via Feature Fingerprinting.
+Byzantine-Robust Asynchronous Federated Learning via Feature Fingerprinting.   
 Meng Shen✉, Bohan Peng, Yi Zhao✉, **Yue Qin**✉ (Co-corresponding), Ming Li, Qi Li, Liehuang Zhu. 
 IEEE Transactions on Information Forensics and Security (TIFS)
 
 
-BSFuzzer: Context-Aware Semantic Fuzzing for BLE Logic Flaw Detection.  
+BSFuzzer: Context-Aware Semantic Fuzzing for BLE Logic Flaw Detection.     
 Ting Yang, **Yue Qin**, Lan Zhang, Zhiyuan Fu, Junfan Chen, Jice Wang, Shangru Zhao, Qi Li, Ruidong Li, He Wang, Yuqing Zhang
 _In Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS), 2026._ (Acceptance rate: 17%)
 
 
 - 2025
 
-Falcon: A Universal Text-only Membership Inference Attack Framework against In-context Learning.  
+Falcon: A Universal Text-only Membership Inference Attack Framework against In-context Learning.    
 Haitao Su, **Yue Qin✉** (Corresponding), Zhenhua Li, Xin Miao, Yuan Zhou.
 _IEEE Transactions on Information Forensics and Security (TIFS) 20 (2025): 12964-12979._
 
