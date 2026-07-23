@@ -37,6 +37,7 @@ My long-term research goal is to discover and understand critical security and p
 ---
 ## News
 - (06/12/2026) One paper was accepted by USENIX Security'26.
+- （05/30/2026）Our research group was awarded an industry-sponsored research grant from Shanghai Jieyue Xingchen Intelligent Technology Co., Ltd. Project: Security Governance of Intelligent Agents in Cyber Attack and Defense Scenarios.  
 - (05/16/2026) One paper was accepted by IEEE TDSC.
 - (04/15/2026) One paper was accepted by S&P'26.
 - (03/26/2026) One paper was accepted by IEEE TIFS.
